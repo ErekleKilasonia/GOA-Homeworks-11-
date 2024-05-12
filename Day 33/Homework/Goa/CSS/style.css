@@ -1,0 +1,33 @@
+div {
+    display: flex;
+    gap: 20px;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+h1 {
+    text-align: center;
+}
+body {
+    background-color: green;
+}
+button {
+    color: chartreuse;
+    background-color: black;
+}
+button a {
+    color: green;
+}
+hr {
+    background-color: black;
+    border-color: black;
+}
+img {
+    border-radius: 30px;
+    border:2px solid limegreen;
+}
+iframe {
+    border-radius: 30px;
+    border:2px solid limegreen;
+}

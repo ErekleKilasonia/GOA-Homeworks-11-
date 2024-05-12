@@ -1,0 +1,33 @@
+#Luninimain {
+    color: chartreuse;
+    text-align: center;
+}
+body {
+    background: #000;
+}
+hr {
+    border-radius: 10;
+    border-color: chartreuse;
+    background-color: chartreuse;
+}
+button {
+    background-color: #000;
+    
+}
+button a {
+    color: chartreuse;
+}
+
+.contact {
+    color:chartreuse;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.img {
+    border-radius: 20px;
+    border: 2px solid chartreuse;
+}
+p {
+    color: chartreuse;
+}
