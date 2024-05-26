@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+div {
+    text-align: right;
+}
+button {
+    background: #0000ff;
+}
+button a {
+    color: black;
+}
+input {
+    background-color: blue;
+    border: 1px;
+    border-radius: 10px;
+}
