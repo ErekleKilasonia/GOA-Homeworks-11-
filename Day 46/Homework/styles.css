@@ -1,0 +1,39 @@
+nav {
+    display: flex;
+    justify-content: center;
+    
+}
+
+nav a {
+    margin-left: 5px;
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+
+.copyright {
+    position: absolute;
+    margin-bottom: 100px;
+}
+main {
+    height: 87vh;
+}
+
+body {
+    background-color: rgb(0, 0, 77);
+}
+
+
+#txt {
+    padding-bottom: 100px;
+}
+
+#sbm {
+    background-color: green;
+}
+
+input {
+    background-color: rgb(0, 0, 77);
+}
